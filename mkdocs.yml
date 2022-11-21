@@ -3,18 +3,8 @@ site_url: https://baniol.github.io/dev-notes/
 repo_url: https://github.com/baniol/dev-notes
 nav:
   - Home: index.md
-  - Custom Templating: template.md
-  - MkDocs on AWS: mkdocs-aws.md
-  - Features:
-    - Features: features/index.md
-    - Admonitions: features/admonitions.md
-    - Code Blocks: features/codeblocks.md
-    - Content Tabs: features/content_tabs.md
-    - Tables & Formatting: features/tables.md
-    - Diagrams: features/diagrams.md
-    - Footnotes: features/footnotes.md
-    - Icons & Images: features/icons.md
-    - Todos: features/todos.md
+  - Posts:
+    - MkDocs on AWS: posts/mkdocs-aws.md
 
 
 # theme:
