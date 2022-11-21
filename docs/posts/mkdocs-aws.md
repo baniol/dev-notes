@@ -2,4 +2,4 @@
 
 ## Overview
 
-![file](./assets/mkdocs-aws.svg)
+![file](../assets/mkdocs-aws.svg)
