@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Posts:
     - MkDocs on AWS: posts/mkdocs-aws.md
+    - Quick Proxy tunneling: do_proxy.md
 
 
 # theme:
